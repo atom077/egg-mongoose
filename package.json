@@ -1,5 +1,5 @@
 {
-  "name": "@moji/egg-mongoose",
+  "name": "@atomkg077/egg-mongoose",
   "version": "3.5.0",
   "description": "egg mongoose plugin",
   "eggPlugin": {
@@ -58,5 +58,8 @@
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

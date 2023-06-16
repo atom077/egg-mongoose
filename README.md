@@ -19,12 +19,13 @@
 [download-image]: https://img.shields.io/npm/dm/egg-mongoose.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-mongoose
 
-Egg's mongoose plugin.
+Egg's mongoose plugin.  
+Forked from [egg-mongoose](https://github.com/eggjs/egg-mongoose/tree/master)
 
 ## Install
 
 ```bash
-$ npm i egg-mongoose --save
+$ npm i @atomkg077/egg-mongoose --save
 ```
 
 ## Configuration
